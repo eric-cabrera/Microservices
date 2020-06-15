@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eric\\source\\repos\\Docker\\HelloAspNetCore\\HelloAspNetCore.csproj": {}
+    "C:\\Users\\eric\\GitHub\\Microservices\\HelloAspNetCore\\HelloAspNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eric\\source\\repos\\Docker\\HelloAspNetCore\\HelloAspNetCore.csproj": {
+    "C:\\Users\\eric\\GitHub\\Microservices\\HelloAspNetCore\\HelloAspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eric\\source\\repos\\Docker\\HelloAspNetCore\\HelloAspNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\eric\\GitHub\\Microservices\\HelloAspNetCore\\HelloAspNetCore.csproj",
         "projectName": "HelloAspNetCore",
-        "projectPath": "C:\\Users\\eric\\source\\repos\\Docker\\HelloAspNetCore\\HelloAspNetCore.csproj",
+        "projectPath": "C:\\Users\\eric\\GitHub\\Microservices\\HelloAspNetCore\\HelloAspNetCore.csproj",
         "packagesPath": "C:\\Users\\eric\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eric\\source\\repos\\Docker\\HelloAspNetCore\\obj\\",
+        "outputPath": "C:\\Users\\eric\\GitHub\\Microservices\\HelloAspNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eric\\AppData\\Roaming\\NuGet\\NuGet.Config",
